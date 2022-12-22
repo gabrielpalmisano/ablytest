@@ -1,3 +1,3 @@
 # ablytest
 
-A new Flutter project.
+This is ably.io APIs integration on Flutter example
